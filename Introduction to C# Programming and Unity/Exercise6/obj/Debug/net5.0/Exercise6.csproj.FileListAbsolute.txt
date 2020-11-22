@@ -1,0 +1,15 @@
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/bin/Debug/net5.0/Exercise6.deps.json
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/bin/Debug/net5.0/Exercise6.runtimeconfig.json
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/bin/Debug/net5.0/Exercise6.runtimeconfig.dev.json
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/bin/Debug/net5.0/Exercise6.dll
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/bin/Debug/net5.0/ref/Exercise6.dll
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/bin/Debug/net5.0/Exercise6.pdb
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.csprojAssemblyReference.cache
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.AssemblyInfoInputs.cache
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.AssemblyInfo.cs
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.csproj.CoreCompileInputs.cache
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.dll
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/ref/Exercise6.dll
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.pdb
+/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Exercise6/obj/Debug/net5.0/Exercise6.genruntimeconfig.cache
