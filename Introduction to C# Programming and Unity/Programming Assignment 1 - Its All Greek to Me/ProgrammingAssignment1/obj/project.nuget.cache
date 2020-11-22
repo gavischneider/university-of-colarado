@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHCQFn0yd8HEXDItuvO413KID0/QNBXBd8X2F9Nv6cBPkyYJIMjN4QAXNKo044gprlmX2y3Ldtm97c0vXjBRDA==",
+  "success": true,
+  "projectFilePath": "/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Programming Assignment 1 - Its All Greek to Me/ProgrammingAssignment1/ProgrammingAssignment1.csproj",
+  "expectedPackageFiles": [
+    "/Users/gavischneider/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/gavischneider/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
