@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1d3zd1m/4dixGtTi3l0dD5VwPbET5h0ytFECupVYz3LMhhd4aGrmM7UQThqQWPcs11icZEtf8agHPeWROTRqQ==",
+  "success": true,
+  "projectFilePath": "/Users/gavischneider/Desktop/Programming/University of Colarado/university-of-colarado/Introduction to C# Programming and Unity/Programming Assignment 2 - Nothing Like Blackjack/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2.csproj",
+  "expectedPackageFiles": [
+    "/Users/gavischneider/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/gavischneider/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
